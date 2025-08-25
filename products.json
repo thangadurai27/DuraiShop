@@ -1,0 +1,28 @@
+[
+  {
+    "id": "p1",
+    "title": "Pagani Design Men's Automatic Mechanical Watch",
+    "price": 149.99,
+    "oldPrice": 199.99,
+    "rating": 4.7,
+    "image": "images/ss.jpg",
+    "shortDescription": "Elegant automatic mechanical watch with genuine leather band and stainless steel case.",
+    "description": "This premium Pagani Design PD-1638 Automatic Watch features a sophisticated skeleton dial with self-winding movement, a classic design with a transparent case back, and water resistance. Perfect for both casual and formal occasions.",
+    "pros": ["Automatic self-winding mechanism", "Premium build quality", "Elegant design", "50M water resistance"],
+    "cons": ["Requires occasional winding if not worn", "Slightly heavy"],
+    "specs": {
+      "Model": "PD-1638",
+      "Movement": "Automatic Mechanical G3265Z",
+      "Case Material": "Stainless Steel",
+      "Band Material": "Genuine Leather",
+      "Water Resistance": "Waterproof",
+      "Case Diameter": "43mm",
+      "Case Thickness": "13mm",
+      "Band Width": "21mm",
+      "Band Length": "260mm",
+      "Weight": "87g",
+      "Dial Window": "Hardlex"
+    },
+    "affiliateUrl": "https://www.amazon.in/Automatic-Mechanical-Waterproof-Self-Winding-Collection/dp/B088JV4DS6?tag=affiliateid-21"
+  }
+]
