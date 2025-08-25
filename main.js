@@ -5,7 +5,7 @@ async function fetchProducts() {
 
 function createProductCard(product) {
   return `<div class="product-card">
-    <img src="${product.image}" alt="${product.title}">
+    <img src="${product.images && product.images.length > 0 ? product.images[0] : ''}" alt="${product.title}">
     <div class="product-title">${product.title}</div>
     <div class="product-short">${product.shortDescription}</div>
     <div class="product-price">$${product.price.toFixed(2)}</div>

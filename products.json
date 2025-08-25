@@ -1,28 +1,40 @@
 [
   {
-    "id": "p1",
-    "title": "Pagani Design Men's Automatic Mechanical Watch",
-    "price": 149.99,
-    "oldPrice": 199.99,
-    "rating": 4.7,
-    "image": "images/ss.jpg",
-    "shortDescription": "Elegant automatic mechanical watch with genuine leather band and stainless steel case.",
-    "description": "This premium Pagani Design PD-1638 Automatic Watch features a sophisticated skeleton dial with self-winding movement, a classic design with a transparent case back, and water resistance. Perfect for both casual and formal occasions.",
-    "pros": ["Automatic self-winding mechanism", "Premium build quality", "Elegant design", "50M water resistance"],
-    "cons": ["Requires occasional winding if not worn", "Slightly heavy"],
+    "id": "gosriki-anarkali-multicolor-xxl",
+    "title": "GoSriKi Women's Rayon Viscose Anarkali Printed Kurta with Palazzo & Dupatta (Multicolor, XXL)",
+    "price": 699.00,
+    "oldPrice": 2499.99,
+    "rating": 4.4,
+   "images": [
+  "images/g.jpg",
+  "images/g1.jpg",
+  "images/g2.jpg",
+  "images/g3.jpg",
+  "images/g4.jpg",
+  "images/g5.jpg"
+],
+
+    "shortDescription": "Anarkali-style printed kurta set with palazzo and dupatta in multicolor (XXL).",
+    "description": "A festive-ready GoSriKi Anarkali set made from a rayon-viscose blend. It includes a printed kurta, comfortable palazzo, and coordinated dupatta—perfect for ethnic occasions and everyday elegance.",
+    "pros": [
+      "Complete 3-piece ethnic wear set",
+      "Comfortable rayon-viscose fabric",
+      "Anarkali silhouette flatters many body types"
+    ],
+    "cons": [
+      "Hand wash recommended",
+      "Colors may vary slightly from images"
+    ],
     "specs": {
-      "Model": "PD-1638",
-      "Movement": "Automatic Mechanical G3265Z",
-      "Case Material": "Stainless Steel",
-      "Band Material": "Genuine Leather",
-      "Water Resistance": "Waterproof",
-      "Case Diameter": "43mm",
-      "Case Thickness": "13mm",
-      "Band Width": "21mm",
-      "Band Length": "260mm",
-      "Weight": "87g",
-      "Dial Window": "Hardlex"
+      "Brand": "GoSriKi",
+      "Style": "Anarkali Kurta with Palazzo & Dupatta",
+      "Fabric": "Rayon Viscose",
+      "Pattern": "Printed",
+      "Color": "Multicolor",
+      "Size": "XXL",
+      "Fit": "Regular",
+      "Care": "Machine wash cold or gentle hand wash"
     },
-    "affiliateUrl": "https://www.amazon.in/Automatic-Mechanical-Waterproof-Self-Winding-Collection/dp/B088JV4DS6?tag=affiliateid-21"
+    "affiliateUrl": "https://amzn.to/3Vk3Upq"
   }
 ]
